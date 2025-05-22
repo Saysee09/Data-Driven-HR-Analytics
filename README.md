@@ -108,7 +108,6 @@ The dataset is based on HR records including:
 
 **Sasi Rokkam**  
 Aspiring Data Analyst | Excel | SQL | Power BI | Python  
-[LinkedIn](#) | [Portfolio](#)
 
 ---
 
